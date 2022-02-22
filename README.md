@@ -27,7 +27,7 @@ For the elements pretty much are using Bootstrap with a little CSS tweaks here a
 - Hafid | [Github](https://github.com/MuhammadHafid195150400111001) | zisnura20@student.ub.ac.id
 - Dany | [Website](https://aliefdany.me) | contact@aliefdany.me
 
-Project Link: [https://github.com/Aditasha/Aditasha.github.io](https://github.com/Aditasha/Aditasha.github.io)
+Project Link: [https://github.com/aditasha/aditasha.github.io](https://github.com/aditasha/aditasha.github.io)
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
